@@ -1,0 +1,9 @@
+README.md
+setup.py
+recipy/__init__.py
+recipy.egg-info/PKG-INFO
+recipy.egg-info/SOURCES.txt
+recipy.egg-info/dependency_links.txt
+recipy.egg-info/top_level.txt
+recipy/pandas_recipes/__init__.py
+recipy/pandas_recipes/recipes.py

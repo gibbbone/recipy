@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: recipy
+Version: 0.1
+Summary: Collection of helper scripts (recipes) for various Python packages.
+Home-page: https://github.com/gibbbone/recipy
+Author: Gibbbone
+Author-email: author@example.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
